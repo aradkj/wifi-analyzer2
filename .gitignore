@@ -8,8 +8,8 @@ venv/
 env/
 
 build/
-dist/
-*.spec.bak
+dist/*
+!dist/WiFiAnalyzerPro.exe
 
 .pytest_cache/
 .coverage
