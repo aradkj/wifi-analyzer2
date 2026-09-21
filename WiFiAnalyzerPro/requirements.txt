@@ -1,0 +1,5 @@
+# WiFi Analyzer Pro - Dependencies
+# Python 3.12+
+
+PySide6>=6.5.0
+pyinstaller>=6.0.0
